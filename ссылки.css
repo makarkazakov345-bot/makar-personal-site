@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  font-size: 80px;
+}
+  .q {
+    top: 200px;
+    left: 960px;
+    position:absolute;
+    text-decoration: none;
+    color: #606cd6
+  }
+.v {
+  position: absolute;
+  width: 100px;
+  top: 200px;
+  left: 200px;
+}
+.w {
+  position: absolute;
+  left: 310px;
+  top: 200px;
+  text-decoration: none;
+  color: #606cd6
+}
+.b {
+  left: 1200px;
+  top: 200px;
+  width: 100px;
+  position: absolute;
+}
+h1 {
+  position: absolute;
+top: 10px;
+left: 550px;
+text-align: center;
+font-size: 60px;
+color: #ccceff;
+}
+.l {
+width: 600px;
+top: 370px;
+right: 450px;
+position: absolute;
+}
+.o {position: absolute;}

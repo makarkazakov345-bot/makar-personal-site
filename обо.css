@@ -1,0 +1,25 @@
+.a {
+  text-align: center;
+color: #ffccf1;
+font-size: 60px; margin-left: 600px
+}
+.b {
+  text-align: center; margin-left: 700px; margin-right: 100px; color: white; font-size: 45px;
+}
+.d {left: 10px;top: 10px;
+position: absolute;
+}
+body {
+background-color: black
+}
+a {
+color: #ffccf1;
+text-decoration:none;
+}
+.h {
+  width: 400px;
+  position: absolute;
+  left: 150px;
+  top: 250px;
+  border-radius: 20px
+}

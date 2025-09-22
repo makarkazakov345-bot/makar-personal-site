@@ -1,0 +1,32 @@
+.a {
+  text-align: center;
+color: #ccffe6;
+font-size: 60px; margin-left: 600px
+}
+.b {
+  text-align: center; margin-left: 700px; margin-right: 100px; color: white; font-size: 45px;
+}
+.d {left: 10px;top: 10px;
+position: absolute;
+}
+body {
+background-color: black
+}
+a {
+color: #ccffe6;
+text-decoration:none;
+}
+.h {
+  width: 400px;
+  position: absolute;
+  left: 115px;
+  top: 680px;
+  border-radius: 20px
+}
+.f {
+  position: absolute;
+  width: 400px;
+  left: 195px;
+  top: 100px;
+  border-radius: 20px
+}
